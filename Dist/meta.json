@@ -1,0 +1,24 @@
+﻿{
+  "ID": "phoenixrising.tweaked",
+  "AssemblyName": "JarnosTweaks.dll",
+  "Author": [
+    {
+      "Key": "English",
+      "Value": "Jarno Mikkola"
+    }
+  ],
+  "Version": "1.0",
+  "Name": [
+    {
+      "Key": "English",
+      "Value": "Jarnos Tweaks"
+    }
+  ],
+  "Description": [
+    {
+      "Key": "English",
+      "Value": "A few tweaks and a lot of unbalanced cheats"
+    }
+  ],
+  "Dependencies": []
+}
